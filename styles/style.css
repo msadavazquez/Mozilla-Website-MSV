@@ -20,6 +20,11 @@ p, li {
   color: orangered;
 }
   
+#mainquote {
+  border-block: solid;
+}
+
+
 html {
   background-color: #00539F;
 }
