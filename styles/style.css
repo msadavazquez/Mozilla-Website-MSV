@@ -16,6 +16,10 @@ p, li {
 }
 
 
+.quote {
+  color: orangered;
+}
+  
 html {
   background-color: #00539F;
 }
